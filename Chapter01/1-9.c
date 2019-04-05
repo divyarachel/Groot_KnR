@@ -1,4 +1,4 @@
- #include <stdio.h>
+#include <stdio.h>
 int main(){
     int c,w;w=0;
      while((c=getchar())!=EOF){
